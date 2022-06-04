@@ -1,0 +1,22 @@
+.navbar{
+    margin: 10px;
+    text-align: end;
+    
+}
+.navbar>.navbar-link-item{
+    margin-right: 30px;
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+
+}
+.main{
+    display: flex;
+    justify-content: space-evenly;
+}
+img{
+    width: 350px;
+    height: 300px;
+    margin: 10px;
+}
+
